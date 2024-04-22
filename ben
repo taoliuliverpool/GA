@@ -1,0 +1,12 @@
+#!/bin/bash -l
+#SBATCH -D ./
+#SBATCH --export=ALL
+#SBATCH -o std.out
+#SBATCH -J c1 
+#SBATCH -p cooper -n 40
+#SBATCH -N 1
+#SBATCH --mem-per-cpu=8000M
+#SBATCH -t 3-00:00:00
+module load apps/gaussian/16
+hostname
+g16<00_o.com>00_o.outopt
