@@ -1,0 +1,26 @@
+25
+1 c1cc(N(c2ccc(c)cc2)c2ccc(c)cc2)ccc1
+2 S1c(N(c2ccccc2)c2ccccc2)ccc1 
+3 c1cc(N(c2ccc(C)cc2)C3CCCC34)c4cc1 
+4 c1cc(N(c2ccc(oc)cc2)c2ccc(oc)cc2)ccc1
+5 c1cc(N(c2ccccc2)c2ccccc2)cc3c1cc(cc3)
+6 c1cc(N(c2ccccc2)c2ccccc2)c3c(cccc3)c1 
+7 c1cc(N((c2cc(C4(C)C)c(c3c4cccc3)cc2))(c2cc(C4(C)C)c(c3c4cccc3)cc2))ccc1
+8 c1cc(N((c2cc(C4(C)C)c(c3c4cc(OC)cc3)cc2))(c2cc(C4(C)C)c(c3c4cc(OC)cc3)cc2))ccc1 
+9 c1cc(N((c2cc(C4(C)C)c(c3c4cc(OC)cc3(OC))cc2))(c2cc(C4(C)C)c(c3c4cc(OC)cc3(OC))cc2))ccc1
+10 c1cc(N(C)C3CCCC34)c4cc1 
+11 c1cc(N(c2cc(ccc(C)c3)c3cc2)c2cc(ccc(C)c3)c3cc2)ccc1
+12 c1cc(N(c2ccccc2)c2cc(ccc(C)c3)c3cc2)ccc1
+13 c1cc(N(c2ccc(C=C(c5ccccc5)c5ccccc5)cc2)C3CCCC34)c4cc1
+14 c1c3c(N(CCC3)CCC2)c2cc1
+15 c1c(C3(C))c(c2ccc(N(c4ccccc4)c4ccccc4)cc23)ccc1
+16 c1c3c(N(CCC3(C)C)CCC2(C)C)c2c(CC(=O)C=C4)c14
+17 c1cc(c2ccccc2(N3(C)))c3cc1 
+18 c1cc(N(C)c3ccccc32)c(O2)cc1
+19 c1cc(N(C)C(C)(C)CC2(C))c2cc1
+20 c1cc(c2nc(c3ccc(N(c4ccccc4)c4ccccc4)cc3)nc(c3ccc(N(c4ccccc4)c4ccccc4)cc3)n2)ccc1 
+21 c(S1)(N((c2cc(C4(C)C)c(c3c4cccc3)cc2))(c2cc(C4(C)C)c(c3c4cccc3)cc2))ccc1 
+22 c(S1)(c2cc(N(c3ccccc3)c4ccccc4)cc(N(c3ccccc3)c4ccccc4)c2)ccc1 
+23 c1cc(N(C)C)ccc1
+24 c1cc(N(C)c3ccccc32)c(S2)cc1
+25 c1cc(N((c2cc(C4(C)C)c(c3c4cccc3)cc2))(c2cc(C4(C)C)c(c3c4cccc3)cc2))cc3c1cc(S3)

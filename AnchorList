@@ -1,0 +1,16 @@
+15
+0 C=C(C#N)C(=O)O
+1 C1=CC=C(C=C1)C(=O)O 
+2 C1=CC=C(C=C1)C=C(C#N)C(=O)O
+3 C#CC1=CC=C(C2=NSN=C12)C3=CC=C(C=C3)C(=O)O
+4 C=C(C1(=O))SC(=S)N1C(=O)O
+5 C1=CC=C(C=C1)C(=O)NO
+6 C1=CC=C(C=C1)[P](=O)(O)O
+7 C=C(S1)C(=C)NC1=C(C#N)C#N
+8 C=CC(C1(=O))=C(C#N)C(=C(C#N)C#N)N1CC(=O)O
+9  C=C1C(=O)N(CC(=O)O)C(S1)=C2C(=O)C(C)C(=S)S2
+10 C=C(C(=O)O)C(=O)OCC
+11 C=C(C#N)C=NO
+12 C=C(C#N)S(=O)(=O)O 
+13 C=C(N(=O)=O)C(=O)O
+14 C=C(C#N)P(=O)(O)O        
