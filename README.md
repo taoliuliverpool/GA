@@ -1,4 +1,5 @@
 # GA
 GA for PCCP
 
-main code is in 1.cpp
+Main code is in 1.cpp
+All of the submitted commands should be changed according to your HPC settings. 
